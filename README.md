@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielldelluca
-- 👀 I’m interested in Java, Phyton
+- 👀 I’m interested in Java,Phyton and more
 - 🌱 I’m currently learning algorithm
 - 💞️ I’m looking to collaborate on learning program
 - 📫 How to reach me: danielldelluca@gmail.com
